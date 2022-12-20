@@ -1,0 +1,10 @@
+
+
+@layer base {
+  body {
+    @apply dark:bg-black;
+  }
+  .underline{
+    @apply dark:bg-slate-50;
+  }
+}
